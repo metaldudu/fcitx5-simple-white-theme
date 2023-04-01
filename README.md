@@ -4,6 +4,7 @@ a white Fcitx5 theme based on  [fcitx5-nord](https://github.com/tonyfettes/fcitx
 
 ## Screenshot
 
+![Screenshot](Screenshot.png)
 
 ## Usage
 
